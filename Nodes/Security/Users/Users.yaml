@@ -1,0 +1,20 @@
+Name: Users
+Id: g=518cb134030f7d0c40fe3ab15dc7279c
+Type: FolderType
+Children:
+- Name: User1
+  Id: g=2092dee24daad6c38ee594e848095927
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=74bfde2d6696168db3510aba678e4ce7
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-IT"
+  - Name: Language
+    Id: g=431bc0b59ddc8f31096521fc595f703e
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-IT"
